@@ -1,5 +1,6 @@
 # Excel Call Center Dashboard
-![Đây là Dashboard cuối cùng của project](Excel Call Center Project.PNG)
+![Excel Call Center Project](https://github.com/DoNguyen0517/Excel-Data-Analysis-CallCenter-Dataset/assets/138648091/5cd06e15-c3c8-401f-be1b-2a6f6ac132ed)
+
 
 ### Giới thiệu
 
