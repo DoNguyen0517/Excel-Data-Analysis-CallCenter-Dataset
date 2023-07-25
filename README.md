@@ -32,7 +32,7 @@ Bộ dữ liệu gốc của Call_Center chứa hơn 32.000 bản ghi dữ liệ
 Excel
 
 
-### Quy trình thực hiện Data Cleaning 
+### Quy trình thực hiện 
 
 1. **Data Understanding** - Tập dữ liệu đã được kiểm tra kỹ lưỡng để hiểu cấu trúc, các cột và ý nghĩa của chúng.
    Dữ liệu không có từ điển dữ liệu kèm theo. Với sự trợ giúp của các nguồn trực tuyến, tôi đã có thể tạo một nguồn 
